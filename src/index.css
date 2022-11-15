@@ -80,3 +80,6 @@ main{
   text-align: center;
   
 }
+.list ul::-webkit-scrollbar{
+width:0px
+}
