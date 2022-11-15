@@ -8,7 +8,6 @@ function App() {
   const [musicNumber, setMusicNumber] = useState(0)
   const [open, setOpen] = useState(false)
 
-  console.log(data[0])
   return (
     <div className="container rounded-[15px] relative">
       <div className=' w-[150px] h-[150px] absolute rounded-[50%] bg-gradient-radial from-yellow-400 to-gray-9000 left-[-65px] top-[-65px]'></div>
